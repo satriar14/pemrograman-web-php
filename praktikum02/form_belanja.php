@@ -54,7 +54,7 @@ if ($produk == "kulkas") {
 $total_harga = $harga * $jumlah;
 // $total_harga += ((int)$jumlah * (int)$harga);
 
-echo 'Proses : '.$proses;
+echo 'Proses : Pesanan diproses';
 echo '<br/> Nama Customer : '.$cust;
 echo '<br/>Nama Produk  : '.$produk;
 echo '<br/>Jumlah Beli : '.$jumlah;
