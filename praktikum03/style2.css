@@ -1,0 +1,21 @@
+.container{
+    margin: 100px auto;
+    width: 700px;
+}
+
+#uts{
+    width: 30%;
+}
+
+#uas{
+    width: 30%;
+}
+
+#tugas{
+    width: 30%;
+}
+
+label{
+    text-align: right;
+    font-weight: bold;
+}
