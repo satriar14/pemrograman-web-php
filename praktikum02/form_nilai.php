@@ -56,6 +56,7 @@
   </body>
 </html>
 
+<!-- Script PHP -->
 <?php
 $simpan = $_GET['simpan'];
 $nama = $_GET['nama'];
