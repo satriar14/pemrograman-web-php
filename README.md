@@ -1,6 +1,6 @@
-# pemweb2_muhammadfikri
+# Pemrograman_web_satria
 
-Jika membutuhkan user auth bisa pakai user yang dibawah ini:
+Login user :
 
 Username : admin
 Password : 12345
