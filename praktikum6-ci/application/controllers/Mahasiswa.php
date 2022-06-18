@@ -8,7 +8,7 @@ class Mahasiswa extends CI_Controller
         $this->load->model('mahasiswa_model', 'mhs1');
         $this->mhs1->id = 1;
         $this->mhs1->nim = '010001';
-        $this->mhs1->nama = 'Ramdahan Satria';
+        $this->mhs1->nama = 'Ramdahan Satria Ramadhan';
         $this->mhs1->gender = 'L';
         $this->mhs1->ipk = 3.85;
         $this->load->model('mahasiswa_model', 'mhs2');
